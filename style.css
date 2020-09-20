@@ -1,0 +1,138 @@
+body{
+	font-family: Cinzel;
+	font-size: 12px;
+	color:#000;
+}
+
+
+#yellow{
+	background-image:url("images/yellow yolk transparent.jpg");
+	height:900px;
+	width:100%;
+	background-repeat: no-repeat;
+	background-color:white;
+}
+
+.cleaner {
+	width: 900px;
+	height: 900px;
+	margin: auto;
+}
+
+
+.topnav {
+  background-color: #fff;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+
+  }
+
+ul{
+	list-style-type: none;
+  	margin: 0;
+  	padding: 0;
+  	color:white;
+}
+
+h1{
+	font-family:cinzel;
+	position: absolute;
+  	top: 250px;
+  	left: 220px;
+	font-size: 30px;
+	color:white;
+	display:table;
+	margin:0 auto;
+	text-align:center;
+	letter-spacing:2px;
+	padding:10px;
+	color:black;
+	background-color:white;
+	opacity:55%;
+	line-height: 67px;
+
+}
+
+h2{
+	position: absolute;
+  	bottom: -490px;
+  	right: 260px;
+  	font-family:Cedarville Cursive;
+	font-size: 25px;
+	display:table;
+	margin:0 auto;
+	text-align:left;
+	letter-spacing:2.5px;
+	padding-top:5px;
+	line-height:2em;
+	text-align:center;
+	font-color:grey;
+}
+
+.container #frameless {
+	font-family: Cedarville Cursive;
+	margin-bottom:-40px;
+	margin-top:-80px;
+	font-size:40px;
+}
+
+.container #wolf {
+	font-size:19px;
+	position:absolute;
+	bottom:-440px;
+	left:275px;
+	text-align:center;
+}
+
+.container #pho {
+	height:420px;
+  	width: 75%;
+  	float:right;
+  	padding: 25px;
+  }
+
+  .container #pho2 {
+	height:420px;
+  	width: 40%;
+  	float:right;
+  	padding: 25px;
+  }
+
+   .container #pho3 {
+	height:425px;
+  	width:24%;
+  	float:left;
+  	padding: 30px;
+  	position:absolute;
+  	top:525px;
+  	left:320px;
+  }
+
+.texts{
+	position:absolute;
+	top:540px;
+	left:290px;
+	font-size:16px;
+	word-spacing: 2px;
+}
+
+.nap{
+	position:absolute;
+	top:250px;
+	left:290px;
+	text-align: center;
+}
+
+#logo{
+	font-size:25px;
+}
+
+
